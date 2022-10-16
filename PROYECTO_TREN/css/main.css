@@ -1,0 +1,9 @@
+.seat:hover{
+    background-color: blue;
+    color:white;
+}
+
+.seat-busy {
+    background-color: red;
+    color: white;
+}
